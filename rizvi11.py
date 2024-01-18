@@ -162,7 +162,7 @@ logo =("""
 \033[;32m                  TLP ZINDA ABAD 
 ••••••••••••••••••••••••••••••••••••••••••••••••\033[1;33m
  \033[1;32m        OWNER        : FAYYAZ
-\033[1;33m         WHATSAPP     : 033410966254
+\033[1;33m         WHATSAPP     : 03410966254
 \033[1;32m         TOOL NAME    : KHR
 \033[1;33m         VERSION      : 0.1
 \033[1;33m         TOOL STATUS  : PAID
